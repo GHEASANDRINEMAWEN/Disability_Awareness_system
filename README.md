@@ -2,11 +2,11 @@
 
 ## PROJECT NAME: Urashoboye
 
-#PROJECT REPORT: https://docs.google.com/document/d/1QqAnwwYwTQV6vuo4mA5S7EIlx58M_AOjBLpRwvcTOz8/edit?usp=sharing
+PROJECT REPORT: https://docs.google.com/document/d/1QqAnwwYwTQV6vuo4mA5S7EIlx58M_AOjBLpRwvcTOz8/edit?usp=sharing
 
-##PROJECT PITCH DECK: https://docs.google.com/presentation/d/1jiA0xa1Jv2c1NJUHg6ur0yUhIR2XNyNANk7oFYeiV0U/edit?usp=sharing
+PROJECT PITCH DECK: https://docs.google.com/presentation/d/1jiA0xa1Jv2c1NJUHg6ur0yUhIR2XNyNANk7oFYeiV0U/edit?usp=sharing
 
-##VIDEO WALKTHROUGH: https://drive.google.com/file/d/1hlhUpEqnUX7qQZQRHO5uREov6BONy2B3/view?usp=sharing
+VIDEO WALKTHROUGH: https://drive.google.com/file/d/1hlhUpEqnUX7qQZQRHO5uREov6BONy2B3/view?usp=sharing
 
 This project seeks to bring forward a system, platform, or technique that can help parents with disabled children get help and guidance in raising their children from both professionals and fellow parents.
 
